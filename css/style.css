@@ -8,11 +8,9 @@ body{
 	font-family:Noto Sans TC Light,Georgia; 
 }
 a{	text-decoration: none;
-	color: #fff;
+	color: #578583;
 }
-a:after{
-	content='';
-	background-color: #578583;
+
 h1{
 	color:  #578583;
 }
