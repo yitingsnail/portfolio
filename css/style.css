@@ -118,7 +118,7 @@ h3-1{
 	width: 100%;
 	position: fixed;
 	z-index: 30;
-	background-color: #b4d8c0;
+	background-color: #578583;
 	border:1px solid #fff;
 }
 .wrapper .header .navbar{
@@ -130,7 +130,7 @@ h3-1{
 	padding: 7px;
 	text-align: center;
 	margin: 0 5px;
-	background-color: #b4d8c0;
+	background-color: #578583;
 	display: flex;
 }
 .wrapper .header .navbar .container .menu{
@@ -151,7 +151,7 @@ h3-1{
 	width: 100px;
 }
 .wrapper .header .navbar .container .menu > li>a:hover{
-	color:#578583;
+	color:#fff;
 }
 .wrapper .header .navbar .container .menu > li > a:after{
 	content: '';
@@ -159,7 +159,7 @@ h3-1{
 	height: 4px;
 	border-radius: 50px;
 	width: 0%;
-	background-color: #578583;
+	background-color: #fff;
 	top: 80%;
 	left: 12%;
 	transition: all 0.2s;
