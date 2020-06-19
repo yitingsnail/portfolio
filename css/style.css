@@ -10,6 +10,9 @@ body{
 a{	text-decoration: none;
 	color: #fff;
 }
+a:after{
+	content='';
+	background-color: #578583;
 h1{
 	color:  #578583;
 }
