@@ -140,7 +140,7 @@ h3-1{
 	list-style: none;
 	display: flex;
 	text-align: center;
-	left: 35%;
+	left: 38%;
 }
 .wrapper .header .navbar .container .menu > li > a{
 	color:#fff;
@@ -198,16 +198,6 @@ h3-1{
 }
 .project-inner{
 	display: flex;
-}
-/*hobby*/
-.snapwidget-widget{
-	width: 1170px;
-	padding: 50px 80px 100px 80px;
-	background-color: #b4d8c0;
-}
-.hobby{
-	height: 100%;
-	width: auto;
 }
 /*footer*/
 .footer{
